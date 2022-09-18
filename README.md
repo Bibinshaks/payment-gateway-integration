@@ -8,7 +8,7 @@ A Payment-Gateway-Integration made with Razorpay payment system.
 
 For demo use card
 
-Card No:- 4111 1111 1111 1111
+Card No:- 4111 1111 1111 1110
 
 cvv:- Any
 
